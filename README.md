@@ -145,7 +145,7 @@ $response = $weather->getWeather('深圳', 'all', 'xml');
 </response>
 ```
 
-### 参数说明
+### 调用参数说明
 
 ```$xslt
 array|string getWeather(string $city, string $type = 'base', string $format = 'json')
