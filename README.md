@@ -6,7 +6,7 @@
 ## 安装
 
 ```shell
-$ composer require mazha/my-weather 0.0.1
+$ composer require mazha/my-weather 0.0.2
 ```
 
 ## 使用
